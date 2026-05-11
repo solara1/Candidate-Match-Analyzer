@@ -1,0 +1,6 @@
+{
+  "name": "Candidate Match Analyzer",
+  "description": "A modern AI-powered recruiting tool that analyzes candidate resumes against job descriptions to provide match scores, skill gaps, and screening recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
